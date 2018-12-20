@@ -126,7 +126,7 @@ if pid > 0:
         print('Received', repr(buf))
 
 reqInput(8)
-setInput(7, 8)
+setInput(4, 4)
 reqInput(1)
 reqInput(2)
 exit()
