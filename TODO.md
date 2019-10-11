@@ -1,0 +1,3 @@
+#hdmimatrix TODO
+
+ * Manage disconnections
